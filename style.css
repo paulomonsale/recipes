@@ -12,6 +12,11 @@ img {
   margin-right: auto;
 }
 
+.home {
+  height: auto;
+  width: 300px;
+}
+
 .main {
   margin-left: 10%;
   margin-right: 10%;
